@@ -1,7 +1,6 @@
 from rest_framework import viewsets
 from .serializers import UserSerializer
 from users.models import User
-from rest_framework.authentication import TokenAuthentication
 from rest_framework.permissions import IsAuthenticated
 
 # Create your views here.

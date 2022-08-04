@@ -7,3 +7,7 @@ Collection and storage of user data on the database and crud API. Use the inbuil
 
 # API URL
 - http://127.0.0.1:8000/api/v1/
+
+# Admin Credential
+- Email: admin@admin.com
+- password: admin 
